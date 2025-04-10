@@ -1,7 +1,4 @@
-## Hi there 👋
-
- 
-# 👋 Hi, I'm Medhini!
+ # 👋 Hi, I'm Medhini!
 
 🎓 Undergraduate student in **Information Science and Engineering**
 💻 Passionate about **Cloud Computing**, **Python Programming**, and **Google Cloud Platform (GCP)**  

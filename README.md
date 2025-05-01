@@ -1,8 +1,12 @@
  # 👋 Hi, I'm Medhini!
+ 
+ <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+ 
 
 🎓 Undergraduate student in **Information Science and Engineering**
 💻 Passionate about **Cloud Computing**, **Python Programming**, and **Google Cloud Platform (GCP)**  
 🌱 Currently learning and building projects in **Python, C, Databases (SQL)**, and **Cloud Technology**
+
 
 
 
@@ -67,4 +71,4 @@ My primary interest lies in **Google Cloud Platform (GCP)**, and I aim to deepen
 
 
 
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+

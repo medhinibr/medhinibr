@@ -1,7 +1,10 @@
 ![linkedin bg](https://github.com/user-attachments/assets/417d54a4-79ff-41bc-8870-a2377edda857)
 
-
+<h1 align="center">
+ 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=22&duration=5002&pause=1000&color=F7A428&center=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Medhini!)](https://git.io/typing-svg)
+</h1>
+<div align="center" outline=none>
 
 
  ### Visitor count

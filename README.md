@@ -13,27 +13,42 @@
  <img align="right" alt="GIF" src="code.gif" width="400" height="300" />
  
 
-🎓 Undergraduate student in **Information Science and Engineering**
-💻 Passionate about **Cloud Computing**, **Python Programming**, and **Google Cloud Platform (GCP)**  
-🌱 Currently learning and building projects in **Python, C, Databases (SQL)**, and **Cloud Technology**
 
 
+🎓 Undergraduate Student – Information Science and Engineering
 
+###💻 Key Areas of Interest:
 
-## 🚀 About Me
+Cloud Computing
 
-I'm an enthusiastic student exploring the intersection of cloud computing. With upper-intermediate proficiency in **Python** and **C**, and a working knowledge of **Databases and SQL**, I'm actively building my skills through academic projects, online programs, and internships.
+Python Programming
 
-My primary interest lies in **Google Cloud Platform (GCP)**, and I aim to deepen my expertise through hands-on experience and collaboration on cloud-native applications.
+Google Cloud Platform (GCP)
 
+###🌱 Current Focus:
 
+Strengthening programming skills in Python and C
 
-## 💡 What I’m Currently Doing
+Gaining practical experience in Databases and SQL
 
-- 🧠 Learning advanced concepts in **Cloud Computing** and **AI**
-- 🌐 Exploring **GCP** services and completing skill badges
-- 🤝 Participating in tech communities and virtual internships
-- 🛠️ Working on mini projects to strengthen my development skills
+Exploring advanced concepts in Cloud Computing and Artificial Intelligence
+
+###🚀 About Me:
+
+I’m a motivated and curious learner with a strong interest in building cloud-native applications.
+
+I hold upper-intermediate proficiency in Python and C, and I enjoy applying these skills to real-world problems.
+
+Through academic coursework, online learning platforms, and internships, I’m constantly expanding my technical abilities.
+
+###💡 What I’m Currently Engaged In:
+
+Exploring and applying Google Cloud Platform (GCP) services through hands-on labs and skill badges
+
+Working on mini projects to enhance my development and problem-solving skills
+
+Participating in virtual internships and contributing to tech communities to gain industry exposure and collaborative experience
+
 
 
 

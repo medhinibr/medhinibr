@@ -66,4 +66,5 @@ My primary interest lies in **Google Cloud Platform (GCP)**, and I aim to deepen
 
 
 
-![code](https://github.com/user-attachments/assets/7fe47aab-3cdc-4f0e-bad3-28958e519b01)
+
+<img align="right" alt="GIF" src="![code](https://github.com/user-attachments/assets/7fe47aab-3cdc-4f0e-bad3-28958e519b01)" width="500" height="320" />

@@ -1,4 +1,4 @@
-(https://readme-typing-svg.demolab.com/demo/?weight=500&size=21&duration=5002&color=F7DA20&lines=%F0%9F%91%8B+Hi%2C+I'm+Medhini!)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=5002&pause=1000&color=F7DA20&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Medhini!)](https://git.io/typing-svg)
 
  ### Visitor count
 <img src="https://profile-counter.glitch.me/medhinibr/count.svg" />

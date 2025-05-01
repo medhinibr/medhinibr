@@ -32,12 +32,29 @@ My primary interest lies in **Google Cloud Platform (GCP)**, and I aim to deepen
 - **Learning**: Cloud Functions
 
 
+<h1>🌐🔗Connect with me:</h1>
 
-## 📫 Let’s Connect
-
-- 🔗 [LinkedIn](www.linkedin.com/in/br-medhini)
-- 💼 [GitHub](https://github.com/medhinibr)
-- 📧 [Email](mailto:brmedhini@gmail.com)
+<a href="https://github.com/KRUTHIKTR" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/kruthiktr" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/br-medhini/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@kruthiktrgowda" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+<a href="mailto:kruthiktrgowda24@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="gmail logo"  />
+</a>
+<a href="https://www.hackerrank.com/profile/kruthiktr" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="hackerrank logo"  />
+</a>
+<a href="https://linktr.ee/kruthik_tr" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linktree logo"  />
+</a>
 
 
 

@@ -7,7 +7,7 @@
 
  
  <img align="right" alt="GIF" src="code.gif" width="280" height="250" />
- 
+ <br>
 
 - 👀 Passionate about Cloud Computing, Python Programming, and Google Cloud Platform (GCP).
 - 🌱 Currently exploring GCP services, and cloud architecture through projects and labs.

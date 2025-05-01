@@ -64,3 +64,6 @@ My primary interest lies in **Google Cloud Platform (GCP)**, and I aim to deepen
 ### Visitor count
 <img src="https://profile-counter.glitch.me/medhinibr/count.svg" />
 
+
+
+![code](https://github.com/user-attachments/assets/7fe47aab-3cdc-4f0e-bad3-28958e519b01)

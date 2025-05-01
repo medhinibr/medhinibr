@@ -43,6 +43,23 @@ My primary interest lies in **Google Cloud Platform (GCP)**, and I aim to deepen
 
 
 
+
+
+
+
+
+
+> — Always eager to learn, contribute, and grow in the tech ecosystem.
+
+
+
+<h1> 📊 GitHub Stats: </h1>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=medhinibr&show_icons=true&theme=dark)
+![](https://nirzak-streak-stats.vercel.app/?user=medhinibr&theme=dark&hide_border=false)<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=medhinibr&show_icons=true&locale=en&layout=compact&theme=dark" alt="brmedhini" /></p>
+<br><br><br><br><br><br>
+
 <h1>🌐🔗Connect with me:</h1>
 
 <a href="https://github.com/medhinibr" target="_blank">
@@ -63,22 +80,6 @@ My primary interest lies in **Google Cloud Platform (GCP)**, and I aim to deepen
 <a href="https://linktr.ee/brmedhini" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linktree logo"  />
 </a>
-
-
-
-
-
-> — Always eager to learn, contribute, and grow in the tech ecosystem.
-
-
-
-<h1> 📊 GitHub Stats: </h1>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=medhinibr&show_icons=true&theme=dark)
-![](https://nirzak-streak-stats.vercel.app/?user=medhinibr&theme=dark&hide_border=false)<br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=medhinibr&show_icons=true&locale=en&layout=compact&theme=dark" alt="brmedhini" /></p>
-<br><br><br><br><br><br>
-
 
 
 

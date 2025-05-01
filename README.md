@@ -52,7 +52,7 @@ My primary interest lies in **Google Cloud Platform (GCP)**, and I aim to deepen
 <a href="https://www.hackerrank.com/profile/kruthiktr" target="_blank">
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="hackerrank logo"  />
 </a>
-<a href="https://linktr.ee/kruthik_tr" target="_blank">
+<a href="https://linktr.ee/brmedhini" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linktree logo"  />
 </a>
 

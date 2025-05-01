@@ -34,7 +34,7 @@ My primary interest lies in **Google Cloud Platform (GCP)**, and I aim to deepen
 
 <h1>🌐🔗Connect with me:</h1>
 
-<a href="https://github.com/KRUTHIKTR" target="_blank">
+<a href="https://github.com/medhinibr" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/br-medhini/" target="_blank">
@@ -43,10 +43,10 @@ My primary interest lies in **Google Cloud Platform (GCP)**, and I aim to deepen
 <a href="https://medium.com/@medhinibr" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
-<a href="mailto:kruthiktrgowda24@gmail.com" target="_blank">
+<a href="mailto:brmedhini@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="gmail logo"  />
 </a>
-<a href="https://www.hackerrank.com/profile/kruthiktr" target="_blank">
+<a href="https://www.hackerrank.com/profile/medhinibr" target="_blank">
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="hackerrank logo"  />
 </a>
 <a href="https://linktr.ee/brmedhini" target="_blank">

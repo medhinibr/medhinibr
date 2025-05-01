@@ -12,7 +12,7 @@
 - 💡 Constantly learning, building mini projects, and engaging in virtual internships.
 - 📌 Working on a Blood bank management system using cloud and development tools.
 - 🤝 Open to collaborating on Kubernetes, and Cloud-based projects.
- <br><br><br><br><br><br>
+ <br><br><br><br>
   
 
 # 💻 Tech Stack:

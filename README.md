@@ -17,37 +17,11 @@
 
 🎓 Undergraduate Student – Information Science and Engineering
 
-**💻 Key Areas of Interest:**
-
-Cloud Computing
-
-Python Programming
-
-Google Cloud Platform (GCP)
-
-**🌱 Current Focus:**
-
-Strengthening programming skills in Python and C
-
-Gaining practical experience in Databases and SQL
-
-Exploring advanced concepts in Cloud Computing and Artificial Intelligence
-
-**🚀 About Me:**
-
-I’m a motivated and curious learner with a strong interest in building cloud-native applications.
-
-I hold upper-intermediate proficiency in Python and C, and I enjoy applying these skills to real-world problems.
-
-Through academic coursework, online learning platforms, and internships, I’m constantly expanding my technical abilities.
-
-**💡 What I’m Currently Engaged In:**
-
-Exploring and applying Google Cloud Platform (GCP) services through hands-on labs and skill badges
-
-Working on mini projects to enhance my development and problem-solving skills
-
-Participating in virtual internships and contributing to tech communities to gain industry exposure and collaborative experience
+👀 Passionate about Cloud Computing, Python Programming, and Google Cloud Platform (GCP).
+🌱 Currently exploring GCP services, and cloud architecture through projects and labs.
+💡 Constantly learning, building mini projects, and engaging in virtual internships.
+📌 Working on a Blood bank management system using cloud and development tools.
+🤝 Open to collaborating on Kubernetes, and Cloud-based projects.
 
 
 

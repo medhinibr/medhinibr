@@ -10,7 +10,7 @@
  ### Visitor count
 <img src="https://profile-counter.glitch.me/medhinibr/count.svg" />
  
- <img align="right" alt="GIF" src="code.gif" width="280" height="280" />
+ <img align="right" alt="GIF" src="code.gif" width="280" height="250" />
  
 
 

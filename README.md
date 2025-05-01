@@ -43,3 +43,8 @@ My primary interest lies in **Google Cloud Platform (GCP)**, and I aim to deepen
 
 > — Always eager to learn, contribute, and grow in the tech ecosystem.
 
+
+
+### Visitor count
+<img src="https://profile-counter.glitch.me/medhinibr/count.svg" />
+

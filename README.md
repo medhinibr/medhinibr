@@ -5,17 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=500&size=22&duration=5002&pause=1000&color=F7A428&center=true&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Medhini!)](https://git.io/typing-svg)
 </h1>
 
-
-
- ### Visitor count
-<img src="https://profile-counter.glitch.me/medhinibr/count.svg" />
  
  <img align="right" alt="GIF" src="code.gif" width="280" height="250" />
  
-
-
-
-🎓 Undergraduate Student – Information Science and Engineering
 
 - 👀 Passionate about Cloud Computing, Python Programming, and Google Cloud Platform (GCP).
 - 🌱 Currently exploring GCP services, and cloud architecture through projects and labs.

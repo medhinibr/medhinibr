@@ -1,4 +1,7 @@
  # 👋 Hi, I'm Medhini!
+
+ ### Visitor count
+<img src="https://profile-counter.glitch.me/medhinibr/count.svg" />
  
  <img align="right" alt="GIF" src="code.gif" width="400" height="300" />
  
@@ -65,8 +68,7 @@ My primary interest lies in **Google Cloud Platform (GCP)**, and I aim to deepen
 
 
 
-### Visitor count
-<img src="https://profile-counter.glitch.me/medhinibr/count.svg" />
+
 
 
 

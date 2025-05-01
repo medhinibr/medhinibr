@@ -1,6 +1,7 @@
  # 👋 Hi, I'm Medhini!
  
- <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="code.gif" width="600
+  z" height="320" />
  
 
 🎓 Undergraduate student in **Information Science and Engineering**

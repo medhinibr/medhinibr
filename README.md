@@ -75,7 +75,12 @@ My primary interest lies in **Google Cloud Platform (GCP)**, and I aim to deepen
 
 
 
+<h1> 📊 GitHub Stats: </h1>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=medhinibr&show_icons=true&theme=dark)
+![](https://nirzak-streak-stats.vercel.app/?user=medhinibr&theme=dark&hide_border=false)<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=medhinibr&show_icons=true&locale=en&layout=compact&theme=dark" alt="brmedhini" /></p>
+<br><br><br><br><br><br>
 
 
 

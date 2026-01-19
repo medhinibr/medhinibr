@@ -10,7 +10,7 @@
 -  Passionate about Cloud Computing, Python Programming, and Google Cloud Platform (GCP).
 -  Currently exploring GCP services, and cloud architecture through projects and labs.
 -  Constantly learning, building mini projects, and engaging in virtual internships.
--  Working on a Binance Trade Bot.
+-  Working on a Nivarya Setu.
 -  Open to collaborating on Kubernetes, and Cloud-based projects.
  <br><br><br><br>
   
